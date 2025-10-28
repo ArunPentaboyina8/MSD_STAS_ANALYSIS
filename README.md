@@ -2,7 +2,9 @@
 
 This project presents a Power BI dashboard that provides an analytical overview of the cricket career of Mahendra Singh Dhoni (MSD), one of India's most legendary cricketers.
 
-![MS Dhoni Dashboard Screenshot](image.jpg)
+
+<img width="1457" height="816" alt="Screenshot 2025-10-28 174803" src="https://github.com/user-attachments/assets/d89df2a0-13ae-44e3-bb6d-70de03bed82a" />
+
 
 ## 📈 Key Features
 - **Comprehensive career stats:** Total runs, average strike rate, batting average, milestone counts (sixes, fours, not outs, and innings).
